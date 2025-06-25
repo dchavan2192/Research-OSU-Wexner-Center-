@@ -13,7 +13,7 @@
 
 ## Deeper Look into Code and Results
 
-![Funding source vs FMA](weightPosterV2.png)
+![Funding source vs FMA](weightPosterv2.png)
 
 ## Publication to RESNA (Rehabilitation Engineering and Assistve Technology Society of North America)
 
