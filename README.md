@@ -13,6 +13,7 @@
 
 ## Deeper Look into Code and Results
 
+![Funding source vs FMA]
 
 ## Publication to RESNA (Rehabilitation Engineering and Assistve Technology Society of North America)
 
