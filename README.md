@@ -1,9 +1,10 @@
 # Research @ tOSU Wexner Center: Data Analysis on patient outcomes in the field of assistvie technology
 ## Overview:
-- Published a research paper as second author to the international RESNA conference
-- Presented findings at OSU Health and Rehabilitation to the 2025 RehabWeek to over 2,000 members across the globe
-- Processed 4,000+ data points, leading to actionable insights into patient care and assistive technology
-- Conducted statistical tests and data analysis to identify demographic correlations and create visual representations
+- Taking a look into the insights of patient data in the Wheelchair Service delivery process
+- A way to measure patient outcomes is by using a performance-based self-report tool known as FMA (Functional Mobility Assessment)
+- The FMA ranges from 0-60 where a higher score corresponds to a positve patient outcome
+- Using patient data, I can perform a multitude of statistical tests comparing demographic data and how FMA plays a role
+- This is all done to highlight the impact of seating and mobility equipment interventions performed at the Ohio State University Assistive Technology Clinic 
 
 ## Tools used for Data Analysis
 - Python (Pandas, NumPy, Matplotlib, Statsmodels)
