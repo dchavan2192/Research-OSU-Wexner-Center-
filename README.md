@@ -1,40 +1,74 @@
-# Research @ tOSU Wexner Center: Data Analysis on patient outcomes in the field of assistvie technology
-## Overview:
-- Taking a look into the insights of patient data in the Wheelchair Service delivery process
-- A way to measure patient outcomes is by using a performance-based self-report tool known as FMA (Functional Mobility Assessment)
-- The FMA ranges from 0-60 where a higher score corresponds to a positve patient outcome
-- Using patient data, I can perform a multitude of statistical tests comparing demographic data and how FMA plays a role
-- This is all done to highlight the impact of seating and mobility equipment interventions performed at the Ohio State University Assistive Technology Clinic 
+# Research @ tOSU Wexner Center  
+**Data Analysis on Patient Outcomes in Assistive Technology**
 
-## Tools used for Data Analysis
-- Python (Pandas, NumPy, Matplotlib, Statsmodels)
-- Microsoft Excel 
-- Microsoft Word
+---
 
-## Deeper Look into Code and Results
+## 📊 Overview
+
+- Explored patient data from the Wheelchair Service Delivery process at OSU's Assistive Technology Clinic.
+- Patient outcomes were measured using the **Functional Mobility Assessment (FMA)**, a self-report tool that ranges from 0–60 (higher = better outcome).
+- Performed statistical analysis to investigate how **demographics and clinical factors** affect FMA scores.
+- The goal was to highlight the impact of **seating and mobility equipment interventions** on patient outcomes.
+
+---
+
+## 🛠 Tools Used
+
+- **Python**: `pandas`, `numpy`, `matplotlib`, `statsmodels`
+- **Microsoft Excel**
+- **Microsoft Word** (for documentation & summaries)
+
+---
+
+## 📈 Code and Results
+
+### 🔹 Weight vs FMA Score
 
 ![Weight Distribution](weightPosterv2.png)
-This distribution shows the weight distribution among patients. I conducted a Pearson Correlation Test to determine that as weight increased, FMA score decreased.
-### [Here is the code!](https://github.com/dchavan2192/Research-OSU-Wexner-Center-/blob/main/EmploymentCode.py)
 
+This plot displays the distribution of patient weights.  
+A **Pearson correlation test** showed a negative relationship: as **weight increases**, FMA scores tend to **decrease**.
+
+👉 [View Code](https://github.com/dchavan2192/Research-OSU-Wexner-Center-/blob/main/EmploymentCode.py)
+
+---
+
+### 🔹 Funding Source vs FMA Score
 
 ![Funding Source vs FMA](fundingSourceFont23v3.png)
-Boxplot showcases the FMA distribution grouped by different funding sources/insurances of the patient. Using Tukey's HSD, came to the conclusion that individuals who have public funding source types tend to have a lower FMA score than private funding sources.
-### [Here is the code!](https://github.com/dchavan2192/Research-OSU-Wexner-Center-/blob/main/fundingSourceCode.py)
 
+This boxplot shows FMA scores grouped by different **funding sources** (insurance types).  
+Using **Tukey's HSD**, we concluded that patients with **public funding** generally had **lower FMA scores** than those with private insurance.
 
-## Publication to RESNA (Rehabilitation Engineering and Assistve Technology Society of North America)
-[Analysis_of_FMA_outcome_measures](https://github.com/dchavan2192/Research-OSU-Wexner-Center-/blob/main/Analysis_of_FMA_outcome_measures.pdf)
+👉 [View Code](https://github.com/dchavan2192/Research-OSU-Wexner-Center-/blob/main/fundingSourceCode.py)
 
-## Showcasing results at RehabWeek 2025 in Chicago!
+---
+
+## 📄 Published Research
+
+📌 **Presented at RESNA** (Rehabilitation Engineering and Assistive Technology Society of North America)  
+📝 [View Paper – *Analysis of FMA Outcome Measures*](https://github.com/dchavan2192/Research-OSU-Wexner-Center-/blob/main/Analysis_of_FMA_outcome_measures.pdf)
+
+---
+
+## 🎤 RehabWeek 2025, Chicago
+
 ![Keynote Speech](RehabWeekView.png)
 
-### RehabWeek is a week long resarch conference focusing on assistive technology and rehabilitation. Over 2,000 members attedning from all over the world where our work was shared.
-[Poster: ](https://github.com/dchavan2192/Research-OSU-Wexner-Center-/blob/main/FMA%20Analysis%20Poster.pdf)
-A look into the poster that presented to other clinicians and researchers attending RehabWeek 2025
+**RehabWeek** is a global research conference focused on assistive technology and rehabilitation.  
+Over **2,000 researchers and clinicians** attended — our work was shared and well received!
 
-![Group pic in-front of poster](GroupPosterRehabWeek.png)
-Group picture of the team that attended RehabWeek!
+🖼️ [View Poster](https://github.com/dchavan2192/Research-OSU-Wexner-Center-/blob/main/FMA%20Analysis%20Poster.pdf)  
+*A visual summary presented to professionals in the field.*
+
+---
+
+![Group Poster Photo](GroupPosterRehabWeek.png)
+
+Team photo in front of our poster at RehabWeek 2025!
+
+---
+
 
 
 
