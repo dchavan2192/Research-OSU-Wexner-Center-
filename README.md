@@ -27,7 +27,7 @@ Boxplot showcases the FMA distribution grouped by different funding sources/insu
 [Analysis_of_FMA_outcome_measures](https://github.com/dchavan2192/Research-OSU-Wexner-Center-/blob/main/Analysis_of_FMA_outcome_measures.pdf)
 
 ## Showcasing results at RehabWeek 2025 in Chicago!
-![Keynote Speech](RehabWeekView(1).png)
+![Keynote Speech](RehabWeekView (1).png)
 
 ### RehabWeek is a week long resarch conference focusing on assistive technology and rehabilitation. Over 2,000 members attedning from all over the world where our work was shared.
 [Poster: ](https://github.com/dchavan2192/Research-OSU-Wexner-Center-/blob/main/FMA%20Analysis%20Poster.pdf)
