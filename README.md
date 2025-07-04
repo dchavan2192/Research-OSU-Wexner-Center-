@@ -15,11 +15,13 @@
 
 ![Weight Distribution](weightPosterv2.png)
 This distribution shows the weight distribution among patients. I conducted a Pearson Correlation Test to determine that as weight increased, FMA score decreased.
-Here is the code!
+### [Here is the code!](https://github.com/dchavan2192/Research-OSU-Wexner-Center-/blob/main/EmploymentCode.py)
+
 
 ![Funding Source vs FMA](fundingSourceFont23v3.png)
 Boxplot showcases the FMA distribution grouped by different funding sources/insurances of the patient. Using Tukey's HSD, came to the conclusion that individuals who have public funding source types tend to have a lower FMA score than private funding sources.
-Here is the code!
+### [Here is the code!](https://github.com/dchavan2192/Research-OSU-Wexner-Center-/blob/main/fundingSourceCode.py)
+
 
 ## Publication to RESNA (Rehabilitation Engineering and Assistve Technology Society of North America)
 
