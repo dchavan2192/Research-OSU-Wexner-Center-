@@ -33,7 +33,7 @@ Boxplot showcases the FMA distribution grouped by different funding sources/insu
 [Poster](https://github.com/dchavan2192/Research-OSU-Wexner-Center-/blob/main/FMA%20Analysis%20Poster.pdf)
 A look into the poster that presented to other clinicians and researchers attending RehabWeek 2025
 
-![Group pic in-front of poster](GroupPosterRehabWeek.png)
+![Group pic in-front of poster](GroupPosterRehabWeek(1).png)
 Group picture of the team that attended RehabWeek!
 
 
