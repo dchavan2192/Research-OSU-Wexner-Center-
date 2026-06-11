@@ -51,9 +51,8 @@ Using **Tukey's HSD**, we concluded that patients with **public funding** genera
 
 ---
 
-## 🎤 RehabWeek 2025, Chicago
 
-![Keynote Speech](RehabWeekView.png)
+
 
 **RehabWeek** is a global research conference focused on assistive technology and rehabilitation.  
 Over **2,000 researchers and clinicians** attended — our work was shared and well received!
@@ -63,9 +62,7 @@ Over **2,000 researchers and clinicians** attended — our work was shared and w
 
 ---
 
-![Group Poster Photo](GroupPosterRehabWeek.png)
 
-Team photo in front of our poster at RehabWeek 2025!
 
 ---
 
